@@ -5,4 +5,4 @@ NicoHood / HIDライブラリを利用しており、
 その他必要なパーツや配線などはこちらを参照ください。
 https://5iren.net/diy-2dx-controller-used-arduino/#.YW5zGRxUuM8
 
-最後にスケッチ監修してくれたGIMOPをはじめ、自作コントローラ界隈の先人たちに感謝です。
+スケッチ監修してくれたGIMOPをはじめ、自作コントローラ界隈の先人たちに感謝です。
