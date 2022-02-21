@@ -33,7 +33,7 @@
 unsigned long elapsed = 0;
 
 //scratch
-const unsigned long ACTIVE_TIME = 50000; //スクラッチの入力時間
+const unsigned long ACTIVE_TIME = 40000; //スクラッチの入力時間
 const int THRESHOLD = 750;  // フォトインタラプタのON/OFFの閾値
 const int THRES_LOW = 850;
 const int THRES_HIGH = 650;
