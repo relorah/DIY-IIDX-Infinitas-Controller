@@ -1,4 +1,4 @@
-Arduino+アスキー製5鍵盤コントローラ(フォトインタラプタ)で作るIIDXコントローラです。\n
+Arduino+アスキー製5鍵盤コントローラ(フォトインタラプタ)で作るIIDXコントローラです。
 NicoHood / HIDライブラリを利用しており、beatmania IIDX Infinitasや各種BMSにも対応しています。
 
 ・**keyboard.ino** : 
